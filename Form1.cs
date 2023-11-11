@@ -3,6 +3,10 @@ using System.IO;
 using System.Text;
 #nullable disable warnings
 
+// Note to other devs: You can edit the theme by changing the colors in my terrible theme function.
+// If you want your changes saved permanently please make a pull request.
+// API coming soon to make things easier.
+
 public partial class Form1 : Form
 {
 	public PictureBox pictureBox1;
