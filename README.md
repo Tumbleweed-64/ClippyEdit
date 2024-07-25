@@ -1,7 +1,7 @@
 # ClippyEdit
 The greatest text editor made.
 
-Welcome, friends, developers! I have created a new text editor. What's so special about this, you may ask? Well, as evidenced by the title, It has the special inclusion of our old Windows friend, Clippy.
+Welcome, fellow developers! I have created a new text editor. What's so special about this, you may ask? Well, as evidenced by the title, It has the special inclusion of our old Windows friend, Clippy. Keep in mind you will either need dotnet framework v7 or just change the number in the <code>.csproj</code> from 7 to 8.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/db/Clippy-letter.PNG" alt="Clippy" title="It's him.">
 
@@ -30,3 +30,4 @@ Even with the excellent quality of the editor right now, I'd like to put in some
 - Finish the features on the "📎" button
 - Fix a bug with the Hot Dog Stand theme that interferes with the other themes
 - Give Clippy some more jokes. These should trigger when you load a file, try to write, and other inconvienient times for someone to be making fun of your writing in some way.
+- I will be rewriting this soon with Java, but the old repo will still be kept here if anybody wants the classic experience.
