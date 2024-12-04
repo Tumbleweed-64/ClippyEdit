@@ -1,7 +1,7 @@
 # ClippyEdit
 The greatest text editor made.
 
-Welcome, fellow developers! I have created a new text editor. What's so special about this, you may ask? Well, as evidenced by the title, It has the special inclusion of our old Windows friend, Clippy. Keep in mind you will either need dotnet framework v7 or just change the number in the <code>.csproj</code> from 7 to 8.
+Welcome, fellow developers! I have created a new text editor. What's so special about this, you may ask? Well, as evidenced by the title, It has the special inclusion of our old Windows friend, Clippy. Keep in mind you will either need version 7 of the dotnet framework or just change the number in the <code>.csproj</code> from 7 to whatever the version is when you find this thing.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/db/Clippy-letter.PNG" alt="Clippy" title="It's him.">
 
