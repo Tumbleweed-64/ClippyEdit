@@ -30,4 +30,4 @@ Even with the excellent quality of the editor right now, I'd like to put in some
 - Finish the features on the "📎" button
 - Fix a bug with the Hot Dog Stand theme that interferes with the other themes
 - Give Clippy some more jokes. These should trigger when you load a file, try to write, and other inconvienient times for someone to be making fun of your writing in some way.
-- I will be rewriting this soon with Java, but the old repo will still be kept here if anybody wants the classic experience.
+- I will be rewriting this soon with Java, but the old repo will still be kept here if anybody wants the classic experience. Note that you will need the dotnet runtime version 7-something, I believe, because C# is very pushy about that for some reason. I wish I could make Clippy say some more stuff, but I'm on Linux now and I have no idea how to install dotnet :P. As I said, I will remake in in Java and hopefully make it even better, but Swing is a little wacky.
